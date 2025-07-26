@@ -1,4 +1,4 @@
-# Wallet Risk Scoring From Scratch (ZERU Internship Assignment 2)
+# Wallet Risk Scoring From Scratch 
 
 This project implements a risk scoring model for Ethereum wallet addresses using on-chain transaction data. The solution fetches raw transactional activity for 100 wallets, engineers behavioral features, and applies an unsupervised ML model to assign each wallet a normalized risk score between 0 and 1000.
 
