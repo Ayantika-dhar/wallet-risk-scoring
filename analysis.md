@@ -71,7 +71,7 @@ These features were aggregated and used for unsupervised clustering to avoid any
 
 The histogram plot shows that wallet scores are widely distributed between 0 and 1000, with visible peaks near the lower and middle ranges. This suggests that a large portion of wallets exhibit moderate to high risk behaviors, with fewer wallets scoring near the safest end.
 
-![Wallet Risk Scores Distribution](plots/score_trend_plot.png)
+![Wallet Risk Scores Distribution](plots/score_distribution_hist.png)
 
 ---
 
